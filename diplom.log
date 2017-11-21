@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.21)  21 NOV 2017 09:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.21)  21 NOV 2017 09:49
 entering extended mode
 **./diplom.tex
 (diplom.tex
@@ -1073,7 +1073,7 @@ Overfull \hbox (3.17297pt too wide) in paragraph at lines 127--129
  []
 
 [2]
-<1.png, id=36, 819.8128pt x 615.0478pt>
+<1.png, id=40, 819.8128pt x 615.0478pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 134. on input line 134.
@@ -1094,7 +1094,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 139.
 ("E:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3] [4 <./1.png>]
-<2.png, id=57, 306.39468pt x 472.01344pt>
+<2.png, id=61, 306.39468pt x 472.01344pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 143. on input line 143.
@@ -1104,7 +1104,7 @@ Package pdftex.def Info: Requested size: 328.6279pt x 506.2954pt on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3.png, id=59, 501.37312pt x 350.05782pt>
+<3.png, id=63, 501.37312pt x 350.05782pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 151. on input line 151.
@@ -1115,7 +1115,7 @@ Package pdftex.def Info: Requested size: 328.6279pt x 229.4578pt on input line
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6]
-<4.png, id=72, 643.6547pt x 480.29437pt>
+<4.png, id=76, 643.6547pt x 480.29437pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
 Package pdftex.def Info: 4.png  used on input line 161. on input line 161.
@@ -1132,22 +1132,39 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
- [9] [10 <./2.png>] [11 <./3.png> <./4.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
+[7] [8] [9]
+<5.png, id=92, 578.16pt x 429.10312pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 180. on input line 180.
+Package pdftex.def Info: Requested size: 328.6279pt x 243.90382pt on input line
+ 180.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `ris:5' on page 10 undefined on input line 184.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
+[10] [11 <./2.png>] [12 <./3.png> <./4.png>] [13 <./5.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
  (diplom.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
 Package rerunfilecheck Info: File `diplom.out' has not changed.
-(rerunfilecheck)             Checksum: 79D1124C334735FA784D330DF6B28268;1584.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
+(rerunfilecheck)             Checksum: D8E31651514DBC98B84CE7069FA45BE6;1761.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
  ) 
 Here is how much of TeX's memory you used:
- 14216 strings out of 493312
- 198450 string characters out of 3138892
- 395063 words of memory out of 3000000
- 17505 multiletter control sequences out of 15000+200000
+ 14227 strings out of 493312
+ 198565 string characters out of 3138892
+ 397063 words of memory out of 3000000
+ 17511 multiletter control sequences out of 15000+200000
  16541 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,9n,40p,5540b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1156,13 +1173,14 @@ larm1200.pk> <C:\Users\Kostyaj\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
 2a\dpi600\labx1440.pk> <C:\Users\Kostyaj\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
 ur\lh\lh-t2a\dpi600\larm1440.pk> <C:\Users\Kostyaj\AppData\Local\MiKTeX\2.9\fon
 ts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk><E:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmmi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y10.pfb>
-Output written on diplom.pdf (11 pages, 542139 bytes).
+pe1/public/amsfonts/cm/cmmi10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on diplom.pdf (13 pages, 613235 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
