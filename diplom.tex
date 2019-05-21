@@ -174,6 +174,15 @@ P_{\beta}\left((A, Z) \to (A, Z + 1)\right) = \left(\frac{8}{\pi\mu_{A A'} T^3}\
 \Phi(E) = \frac{1}{60}(E^2-1)^{1/2}(2E^4-9E^2-8)+\frac{1}{4}E\ln(E+(E^2-1)^{1/2})
 \end{equation}
 
+\begin{equation}
+\label{eq:lambda}
+	\lambda_i = \frac{ZZ'e^2\mu}{\hbar^2 k_i}, \lambda_f = \frac{(Z+1)Z'e^2\mu}{\hbar^2 k_f}
+\end{equation}
+
+\begin{equation}
+\label{eq:epsilon}
+\epsilon_i = \frac{\hbar^2 k_i^2}{2\mu}, \epsilon_f = \frac{\hbar^2 k_f^2}{2\mu}
+\end{equation}
 
 Для возможности использования полученных сечений вместе с другими библиотеками ядерных реакций необходимо привести их к единому формату. Данным форматом был выбран REACLIB.
 
@@ -244,6 +253,22 @@ SkyNet также имеет обертку для использования е
 
 (!!! мало информации, нужно найти больше)
 
+\section{Построение СБР}
+
+Итак, мы пришли к тому, что для добавления новых реакций СБР мы должны построить сечение по формуле (\ref{eq:sbr}). Для упрощения расчетов, а именно, уменьшения количества операций, связанных с умножениями на константы, было принято решение перейти к системе единиц СГС ($m_e = \hbar = c = 1$). Тогда $\alpha = \frac{e}{\hbar_c}$. Таким образом, (\ref{eq:lambda}) принимает вид
+
+\begin{equation}
+\lambda_i = \frac{Z Z' e^2 \mu}{\hbar^2 k_i} = \frac{Z Z' e^2 \mu}{\sqrt{2\mu \epsilon_i}} = Z Z' e^2 \sqrt{\frac{\mu}{2 \epsilon_i}} = Z Z' \alpha \sqrt{\frac{\mu}{2 \epsilon_i}}
+\end{equation}
+
+\begin{equation}
+\lambda_i = \frac{(Z+1) Z'  e^2 \mu}{\hbar^2 k_f} = (Z + 1)Z' e^2 \sqrt{\frac{\mu}{2 \epsilon_f}} = Z Z' e^2 \sqrt{\frac{\mu}{2 \epsilon_i}} = Z Z' \alpha \sqrt{\frac{\mu}{2 \epsilon_i}}
+\end{equation}
+
+\begin{equation}
+\mu = m_n \frac{A_1 A_2}{A_1 + A_2}
+\end{equation}
+, где $m_n$ = $1,835\times10^3 = m_n\\m_e$
 \section{Расчеты}
 Сначала были получены сечения столкновительного бета-распадов при столкновении ядра с протоном, такие как, например:
 $$^{130}Xe \to ^{130}Cs$$
