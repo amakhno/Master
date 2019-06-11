@@ -1,0 +1,84 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{6}{Doc-Start}% 
+\contentsline {section}{\numberline {1}Моделирование нуклеосинтеза}{8}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Нуклеосинтез Большого Взрыва}{8}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Горение в звездах малой массы}{8}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Ядерное горение в тяжелых звездах}{9}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Пик железа}{11}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}Нуклеосинтез за пиком железа}{12}{subsection.1.5}% 
+\contentsline {subsection}{\numberline {1.6}Возможные места r-процесса}{14}{subsection.1.6}% 
+\contentsline {subsection}{\numberline {1.7}Распространенность в солнечной системе}{14}{subsection.1.7}% 
+\contentsline {subsection}{\numberline {1.8}Коллапс ядра сверхновых}{15}{subsection.1.8}% 
+\contentsline {subsection}{\numberline {1.9}Слияние нейтронных звезд}{16}{subsection.1.9}% 
+\contentsline {subsection}{\numberline {1.10}Поглощение черной дырой нейтронной звезды}{18}{subsection.1.10}% 
+\contentsline {section}{\numberline {2}Столкновительный β-распад}{24}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Дифференциальное сечение процесса столкновительного β-распада ядер в кулоновском поле отталкивания.}{25}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Полное сечение процесса СБР}{30}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}REACLIB}{32}{section.3}% 
+\contentsline {section}{\numberline {4}SkyNet}{34}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Основы сети ядерных реакций}{34}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Кинетическая теория}{34}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Моделирование r-процесса}{36}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Построение сечения СБР}{37}{section.5}% 
+\contentsline {section}{\numberline {6}Анализ результатов}{41}{section.6}% 
+\contentsline {section}{Заключение}{52}{figure.caption.19}% 
+\contentsline {section}{Список используемой литературы}{53}{figure.caption.19}% 
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}
+\contentsline {section}{Приложение А Листинг программы построение СБР}{56}{figure.caption.19}% 
+\contentsline {section}{Приложение B Листинг программы параметризации СБР и моделирования слияния}{60}{lstnumber.-2.156}% 
+\contentsline {section}{Приложение C Реакции СБР в формате JINA REACLIB}{64}{lstnumber.-3.145}% 
