@@ -1,0 +1,66 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{5}{Doc-Start}% 
+\contentsline {section}{\numberline {1}Проблема происхождения обойденных элементов}{7}{section.1}% 
+\contentsline {section}{\numberline {2}Столкновительный β-распад}{8}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Дифференциальное сечение процесса столкновительного β-распада ядер в кулоновском поле отталкивания.}{9}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Полное сечение процесса СБР}{14}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}REACLIB}{16}{section.3}% 
+\contentsline {section}{\numberline {4}SkyNet}{18}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Основы сети ядерных реакций}{18}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Кинетическая теория}{18}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Моделирование r-процесса}{20}{subsection.4.3}% 
+\contentsline {section}{\numberline {5}Построение сечения СБР}{21}{section.5}% 
+\contentsline {section}{\numberline {6}Анализ результатов}{25}{section.6}% 
+\contentsline {section}{Заключение}{36}{figure.caption.11}% 
+\contentsline {section}{Список используемой литературы}{37}{figure.caption.11}% 
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}
+\contentsline {section}{Приложение А Листинг программы построение СБР}{40}{figure.caption.11}% 
+\contentsline {section}{Приложение B Листинг программы параметризации СБР и моделирования слияния}{44}{lstnumber.-2.156}% 
+\contentsline {section}{Приложение C Реакции СБР в формате JINA REACLIB}{48}{lstnumber.-3.145}% 
