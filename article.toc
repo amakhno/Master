@@ -6,8 +6,8 @@
 \contentsline {subsection}{\numberline {3.1}Постановка задачи r-процесса}{8}{subsection.3.1}% 
 \contentsline {section}{\numberline {4}Аппроксимация}{9}{section.4}% 
 \contentsline {section}{\numberline {5}Анализ результатов}{11}{section.5}% 
-\contentsline {section}{Заключение}{14}{figure.caption.4}% 
-\contentsline {section}{Список используемой литературы}{15}{figure.caption.4}% 
+\contentsline {section}{Заключение}{12}{figure.caption.3}% 
+\contentsline {section}{Список используемой литературы}{13}{figure.caption.3}% 
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
