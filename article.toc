@@ -3,11 +3,11 @@
 \contentsline {section}{\numberline {1}Проблема происхождения обойденных элементов}{4}{section.1}% 
 \contentsline {section}{\numberline {2}SkyNet}{6}{section.2}% 
 \contentsline {section}{\numberline {3}Столкновительный β-распад}{7}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Постановка задачи r-процесса}{8}{subsection.3.1}% 
-\contentsline {section}{\numberline {4}Аппроксимация}{9}{section.4}% 
-\contentsline {section}{\numberline {5}Анализ результатов}{12}{section.5}% 
-\contentsline {section}{Заключение}{13}{figure.caption.4}% 
-\contentsline {section}{Список используемой литературы}{14}{figure.caption.4}% 
+\contentsline {section}{\numberline {4}Постановка задачи r-процесса}{9}{section.4}% 
+\contentsline {section}{\numberline {5}Аппроксимация}{10}{section.5}% 
+\contentsline {section}{\numberline {6}Анализ результатов}{13}{section.6}% 
+\contentsline {section}{Заключение}{14}{figure.caption.4}% 
+\contentsline {section}{Список используемой литературы}{15}{figure.caption.4}% 
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
