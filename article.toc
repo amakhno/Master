@@ -7,9 +7,7 @@
 \contentsline {section}{\numberline {5}Аппроксимация}{10}{section.5}% 
 \contentsline {section}{\numberline {6}Анализ результатов}{13}{section.6}% 
 \contentsline {section}{Заключение}{14}{figure.caption.4}% 
-\contentsline {section}{Список используемой литературы}{15}{figure.caption.4}% 
-\babel@toc {english}{}
-\babel@toc {english}{}
+\contentsline {section}{Список используемой литературы}{16}{figure.caption.4}% 
 \babel@toc {english}{}
 \babel@toc {english}{}
 \babel@toc {english}{}
